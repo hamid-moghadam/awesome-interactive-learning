@@ -46,6 +46,7 @@
 - [Seeing Theory](https://seeing-theory.brown.edu/) – Visual introduction to probability and statistics
 - [Immersive Math](https://immersivemath.com/) – Interactive linear algebra
 - [AlgoViz](https://www.algoviz.xyz/) – Algorithm visualizations
+- [3D Solar System Simulator](https://www.3dsolarsystem.net/) – Interactive 3D solar system you can orbit, with compressed and true-scale views and first-person trips to the Moon and Mars
 
 ## Web Development
 
