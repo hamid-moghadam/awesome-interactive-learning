@@ -48,6 +48,7 @@
 - [AlgoViz](https://www.algoviz.xyz/) – Algorithm visualizations
 - [3D Solar System Simulator](https://www.3dsolarsystem.net/) – Interactive 3D solar system you can orbit, with compressed and true-scale views and first-person trips to the Moon and Mars
 - [Space Atlas](https://saramjh.github.io/space_atlas_student/) – Free interactive visual models of Moon phases, Earth seasons, and cosmic scale with teacher-friendly explanation prompts
+- [OpenAha](https://openaha.org/) – Free, open-source interactive math and science courses built from hands-on puzzles and simulations
 
 ## Web Development
 
