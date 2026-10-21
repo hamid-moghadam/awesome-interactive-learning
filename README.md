@@ -12,6 +12,7 @@
 - [Web Development](#web-development)
 - [Security, CTF & Cryptography](#security-ctf--cryptography)
 - [Command Line & Shell](#command-line--shell)
+- [Machine Learning & AI](#machine-learning--ai)
 - [Other Great Resources](#other-great-resources)
 
 ---
@@ -67,6 +68,10 @@
 
 - [CMD Challenge](https://cmdchallenge.com/) – Practice Linux command line
 - [RegexOne](https://regexone.com/) – Interactive regular expressions tutorial
+
+## Machine Learning & AI
+
+- [Machine Learning 101](https://machinelearning101.com) – Free browser-based platform for learning ML algorithms by adjusting parameters and watching training run live
 
 ## Other Great Resources
 
