@@ -51,6 +51,7 @@
 - [Space Atlas](https://saramjh.github.io/space_atlas_student/) – Free interactive visual models of Moon phases, Earth seasons, and cosmic scale with teacher-friendly explanation prompts
 - [OpenAha](https://openaha.org/) – Free, open-source interactive math and science courses built from hands-on puzzles and simulations
 - [Laplace's Mini World](https://world.lapla.si/en/) – Free interactive 3D science models (jet engines, chip lithography, telescopes, AI) you can turn, run and take apart, in English and Chinese
+- [Scivra](https://www.scivra.com/) – Interactive 3D science labs for high school physics, chemistry and biology, right in the browser
 
 ## Web Development
 
