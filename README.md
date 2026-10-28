@@ -77,6 +77,7 @@
 
 ## Other Great Resources
 
+- [SheetTutor](https://sheettutor.top/) – Free Excel formula practice with editable spreadsheets, answer checks and downloadable workbooks; no account required.
 - [Wizard Zines](https://wizardzines.com/) – Excellent illustrated zines (many interactive concepts)
 
 ---
