@@ -53,6 +53,7 @@
 - [Laplace's Mini World](https://world.lapla.si/en/) – Free interactive 3D science models (jet engines, chip lithography, telescopes, AI) you can turn, run and take apart, in English and Chinese
 - [Scivra](https://www.scivra.com/) – Interactive 3D science labs for high school physics, chemistry and biology, right in the browser
 - [Sandbox Physics](https://sandboxphysics.com/) – Browser-based physics experiments with adjustable parameters and explanations in English and Chinese.
+- [VistaMath](https://vistamath.com/) – Interactive graphing calculator for functions, inequalities and polar curves, with live sliders
 
 ## Web Development
 
