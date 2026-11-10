@@ -54,6 +54,7 @@
 - [Scivra](https://www.scivra.com/) – Interactive 3D science labs for high school physics, chemistry and biology, right in the browser
 - [Sandbox Physics](https://sandboxphysics.com/) – Browser-based physics experiments with adjustable parameters and explanations in English and Chinese.
 - [VistaMath](https://vistamath.com/) – Interactive graphing calculator for functions, inequalities and polar curves, with live sliders
+- [Space Simulator Online](https://spacesimulator.online/) – Free browser-based 3D explorer of the Solar System, star sizes, the Milky Way and galaxy collisions, built on NASA data; no account required
 
 ## Web Development
 
