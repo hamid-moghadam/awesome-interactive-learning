@@ -43,6 +43,7 @@
 
 ## Mathematics & Visualizations
 
+- [AI University](https://b1n9ui.github.io/ai-university/en/) – Free, AI-authored open mathematics textbooks with adjustable diagrams, rotatable 3D figures, worked examples and solved exercises, in English and Chinese.
 - [Math is Fun](https://www.mathsisfun.com/) – Clear interactive math explanations
 - [Seeing Theory](https://seeing-theory.brown.edu/) – Visual introduction to probability and statistics
 - [Immersive Math](https://immersivemath.com/) – Interactive linear algebra
