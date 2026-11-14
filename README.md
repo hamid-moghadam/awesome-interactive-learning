@@ -82,6 +82,7 @@
 
 - [SheetTutor](https://sheettutor.top/) – Free Excel formula practice with editable spreadsheets, answer checks and downloadable workbooks; no account required.
 - [soclever](https://soclever.io/) – AI tutor that turns any topic into a short course with five-minute lessons, practice questions, comics and podcast versions; freemium.
+- [SolidCraft CAD](https://solidcraftcad.com/solidcraft-tutorial) – Beginner 3D CAD tutorial with the open-source SolidCraft web app embedded in the page, so you sketch, extrude and export an STL as you read; no account required.
 - [Wizard Zines](https://wizardzines.com/) – Excellent illustrated zines (many interactive concepts)
 
 ---
