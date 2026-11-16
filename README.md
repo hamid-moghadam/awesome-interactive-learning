@@ -23,6 +23,7 @@
 - [How HTTPS Works](https://howhttps.works/) – Interactive HTTPS deep dive
 - [How DNSSEC Works](https://howdnssec.works/) – Interactive DNSSEC explanation
 - [200ms – The Node Book](https://200ms.thenodebook.com/) – Interactive networking concepts
+- [A /24 has 256 addresses](https://artigram.cafeboon.com/p/5yv5j2z) - Interactive subnet lesson: drag the prefix, guess how many addresses you really get, then plan a whole network by hosts needed
 
 ## Operating Systems & Systems
 
