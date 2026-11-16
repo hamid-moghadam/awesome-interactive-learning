@@ -57,6 +57,7 @@
 - [carboncarbon.bond](https://carboncarbon.bond/) – Free organic chemistry lessons with 3D molecule models you can turn and a quick check after each section
 - [Sandbox Physics](https://sandboxphysics.com/) – Browser-based physics experiments with adjustable parameters and explanations in English and Chinese.
 - [VistaMath](https://vistamath.com/) – Interactive graphing calculator for functions, inequalities and polar curves, with live sliders
+- [Space Simulator Online](https://spacesimulator.online/) – Free browser-based 3D explorer of the Solar System, star sizes, the Milky Way and galaxy collisions, built on NASA data; no account required
 
 ## Web Development
 
