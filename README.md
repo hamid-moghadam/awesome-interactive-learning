@@ -75,6 +75,7 @@
 
 - [CMD Challenge](https://cmdchallenge.com/) – Practice Linux command line
 - [RegexOne](https://regexone.com/) – Interactive regular expressions tutorial
+- [Unix From Zero](https://aaryanbindage.github.io/UnixFromZero/) – 17 hands-on Unix command-line lessons, each with a practice shell in the browser, from pipes and permissions to sed, awk and vim
 
 ## Machine Learning & AI
 
