@@ -79,6 +79,7 @@
 ## Machine Learning & AI
 
 - [Machine Learning 101](https://machinelearning101.com) – Free browser-based platform for learning ML algorithms by adjusting parameters and watching training run live
+- [Neuron Lab](https://aaryanbindage.github.io/Neuron-Lab/) – Beginner introduction to neural networks where you tweak weights, biases and activations and watch the math update live
 
 ## Other Great Resources
 
