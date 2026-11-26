@@ -57,6 +57,7 @@
 - [carboncarbon.bond](https://carboncarbon.bond/) – Free organic chemistry lessons with 3D molecule models you can turn and a quick check after each section
 - [Sandbox Physics](https://sandboxphysics.com/) – Browser-based physics experiments with adjustable parameters and explanations in English and Chinese.
 - [VistaMath](https://vistamath.com/) – Interactive graphing calculator for functions, inequalities and polar curves, with live sliders
+- [EduBeam](https://www.edubeam.app/) – Free, open-source structural mechanics in the browser: draw a beam, frame or truss and watch its reactions, moment and shear diagrams update as you edit
 
 ## Web Development
 
